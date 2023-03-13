@@ -1,5 +1,7 @@
 # feltex-faker
 
+ Como criar massa de testes para os seus projetos utilizando a biblioteca JavaFaker.
+
 
 ## Pré-requisitos
 
