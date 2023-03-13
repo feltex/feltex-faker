@@ -15,6 +15,10 @@
   Veja o site oficial do Java faker no [github](https://github.com/DiUS/java-faker).
 
 
+## Assista ao vídeo no youtube
+
+
+[Java Faker](https://www.youtube.com/watch?v=teVyz17rVX4&feature=youtu.be)
 
 
 ## Outros Vídeos de Canal Feltex
